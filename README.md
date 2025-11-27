@@ -56,7 +56,20 @@ To set APP Key
 
 
 ## OUTPUT 
+### BUILD CONFIGURATION
+<img width="1920" height="1200" alt="514834955-19ab3d33-bb1a-4f5d-bd11-b376ba2d8224" src="https://github.com/user-attachments/assets/a95610a5-c351-45cd-a86e-571668653e25" />
 
+### AT COMMANDS
+<img width="1920" height="1200" alt="514835061-c5d9a1af-7f58-491f-ad4d-c8458733ae0f" src="https://github.com/user-attachments/assets/adf47497-7dff-4863-9793-7585a5c6371b" />
+<img width="1033" height="604" alt="514834994-d46e411d-7072-458d-820c-7f427d11c0b5" src="https://github.com/user-attachments/assets/ef91bf09-499b-4f0d-b715-2de55a784f73" />
+
+###<img width="1034" height="597" alt="514835138-596406e1-89eb-42a5-915e-aef98e72b213" src="https://github.com/user-attachments/assets/18754c80-233e-4a81-9b52-031dd4992ebe" />
+<img width="1920" height="1200" alt="514835270-d5582420-f8aa-45b6-bcd3-8f6a27bc66c9" src="https://github.com/user-attachments/assets/649fa7d9-660f-42a7-b9b5-61b99e77327c" />
+<img width="1920" height="1200" alt="514835314-9716f2c2-34ed-4a4b-b38c-bb6f4a7e3ede" src="https://github.com/user-attachments/assets/65a9c38f-e104-4199-91be-34e6cf4854ef" />
+<img width="1920" height="1200" alt="514835476-b6026de6-ca86-4bae-afcb-c16384674b78" src="https://github.com/user-attachments/assets/38ba8971-6acc-48a0-a8a2-0e9c8330b9a1" />
+<img width="1920" height="1200" alt="514835514-74ede65f-c989-4500-be2a-8986ea1b0bf4" src="https://github.com/user-attachments/assets/6aadafbe-6844-4bdf-a511-5f1d193b89f1" />
+<img width="1920" height="1200" alt="514835544-7dfc3bad-581e-4b47-adb8-50fdbfa8b50b" src="https://github.com/user-attachments/assets/f602ad27-a2b2-40da-82bc-3fce1f8c20e0" />
+<img width="1920" height="1200" alt="514835568-080efbd8-268e-4851-8420-208ead1c3d8c" src="https://github.com/user-attachments/assets/22a41b6c-e2e2-4650-9f18-12bd52b04f0f" />
 
 ## Result: 
 
